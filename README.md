@@ -1,3 +1,3 @@
-# NanoRobot
-Arduino Nano Robot Shield + 
-18650 Charger
+# Otto-R2
+A self Balancing OttoDIY robot
+
