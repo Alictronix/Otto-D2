@@ -1,4 +1,4 @@
-# Otto-R2
+# Otto-D2
 A self Balancing OttoDIY robot
 
 
